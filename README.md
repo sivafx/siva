@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm wahyu9kdl</h1>
+<h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👋 Hi, I’m <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwahyu9kdl">@wahyu9kdl</a>
+- 👋 Hi, I’m <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%sivafx">@sivafx</a>
 - 👀 I'm Developer , I'm Creator 
-- 🌱 [about.me](https://about.me/ahmadwahyudi)
+- 🌱 [about.me](https://about.me/sivafx)
 - 📫 Desainner Situs website information and academic
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=blod&color=%2336BCF7&size=30&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40wahyu9kdl+;%F0%9F%98%8A+I'm+Developer+and+Desaigner;%F0%9F%8C%B1+about.me%2Fahmadwahyudi+(+https%3A%2F%2Fabout.me%2Fahmadwahyudi+)+-+%F0%9F%93%AB+Desainner+Situs+website+information+and+academic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Software+Trainer%2C+Developer+%26+Designer+)](https://git.io/typing-svg)
 
 # FEATURED
 
